@@ -1,0 +1,1 @@
+# kafka-security-manager-example
